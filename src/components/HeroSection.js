@@ -10,7 +10,7 @@ function HeroSection() {
             <video src ="/videos/video-2.mp4" autoPlay loop muted />
             <h1>
                 HELLO LOOK HERE!!!</h1>
-                <p> Videos are not playing</p>
+                <p>Extension is not there currently</p>
                 <div className="hero-btns">
                     <Button
                     className='btns'
