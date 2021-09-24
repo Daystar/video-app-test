@@ -41,7 +41,7 @@ function Navbar() {
                    </li>
                    <li className='nav-item'>
                        <Link to= '/pubgmobile' className='nav-links' onClick={closeMobileMenu}>
-                           PubgMobile
+                           Pubg Mobile
                           
                        </Link>
                    </li>
